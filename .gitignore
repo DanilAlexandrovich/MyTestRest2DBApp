@@ -31,4 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
-/src/main/java/ru/dubovitskiy/MyRestSpringBootAppH2DB/controller/
+/src/main/java/ru/dubovitskiy/MyRestSpringBootAppH2DB/controler/
